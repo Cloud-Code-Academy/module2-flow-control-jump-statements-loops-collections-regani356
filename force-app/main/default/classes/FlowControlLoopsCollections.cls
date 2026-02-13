@@ -199,7 +199,7 @@ public with sharing class FlowControlLoopsCollections {
             } else { 
                 punctuation = '';
             }
-            result += inputString + 'Hello World!' + punctuation;
+            result += inputString + punctuation;
         }
         return result;
     } 
