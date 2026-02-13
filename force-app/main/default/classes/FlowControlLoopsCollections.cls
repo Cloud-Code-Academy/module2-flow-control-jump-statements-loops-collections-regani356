@@ -119,7 +119,7 @@ public with sharing class FlowControlLoopsCollections {
             return 'Null';
         } else if (a == '') {
             return 'Empty';
-        } else {)
+        } else {
             return 'Contains Text';
         }
     }
