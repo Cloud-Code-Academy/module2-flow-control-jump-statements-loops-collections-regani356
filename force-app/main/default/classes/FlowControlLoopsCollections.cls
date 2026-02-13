@@ -197,7 +197,7 @@ public with sharing class FlowControlLoopsCollections {
             if (i < repeatCount) {
                 punctuation = '; ';
             } else { 
-                punctuation = ''
+                punctuation = '';
             }
             result = inputString + 'Hello World!' + punctuation;
         return result; // Replace null with the variable you used to store the result
